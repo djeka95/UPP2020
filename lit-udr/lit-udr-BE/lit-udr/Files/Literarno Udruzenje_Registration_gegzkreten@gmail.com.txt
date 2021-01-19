@@ -1,0 +1,7 @@
+Thanks for registering as Reader. Please activate your profile at link: http://localhost:3000/confirmRegistration/1341b09a-e7ca-42e6-bb25-d7f28936e9be
+Thanks for registering as Beta Reader. Please activate your profile at link: http://localhost:3000/confirmRegistration/b97f6baf-3b68-483e-9b9c-4bf1daf997f9
+Thanks for registering as Writer.Please activate your profile at link: http://localhost:3000/confirmRegistration/d64ee278-6d46-4385-b8a7-265d6273bad3
+Thanks for registering as Reader. Please activate your profile at link: http://localhost:3000/confirmRegistration/35ffd95d-ab4b-4f1e-9a3c-8cbb44e86126
+Thanks for registering as Beta Reader. Please activate your profile at link: http://localhost:3000/confirmRegistration/51561b3d-d7cd-46ea-8ced-603869e198f5
+Thanks for registering as Writer.Please activate your profile at link: http://localhost:3000/confirmRegistration/cc22deaf-22e0-4fb4-aaea-1f0683167550
+Thanks for registering as Beta Reader. Please activate your profile at link: http://localhost:3000/confirmRegistration/e86e186b-c6b0-4d9b-a468-9bbaf944cbd0
